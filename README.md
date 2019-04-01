@@ -1,7 +1,7 @@
 # Machine Learning Projects:
 
 
-## Movie Recommendation (Recomender System):
+* ## Movie Recommendation (Recomender System):
 
 We'll start by loading up the [MovieLens dataset](https://movielens.org).
 Using Pandas, we can very quickly load the rows of the u.data and u.item files that we care about, 
