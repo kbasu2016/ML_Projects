@@ -9,7 +9,7 @@ and merge them together so we can work with movie names instead of ID's. (In a r
 we'd stick with ID's and worry about the names at the display layer to make things more efficient. 
 But this lets us understand what's going on better for now.)
 
-## Movie Review (Sentiment Analysis):
+* ## Movie Review (Sentiment Analysis):
 
 With the rise of online social media platforms like Twitter, Facebook and Reddit, and the proliferation of customer reviews on sites like Amazon and Yelp, we now have access, more than ever before, to massive text-based data sets! They can be analyzed in order to determine how large portions of the population feel about certain products, events, etc. This sort of analysis is called _sentiment analysis_. In this project we will build an end-to-end sentiment classification system from scratch.
 
@@ -18,7 +18,7 @@ The dataset we are going to use is very popular among researchers in Natural Lan
 Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.
 
 
-## Spam Classifier (using Naive-Bayes):
+* ## Spam Classifier (using Naive-Bayes):
 
 Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail'. 
 
