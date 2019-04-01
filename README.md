@@ -1,7 +1,7 @@
-# ML_Projects
+# Machine Learning Projects:
 
 <div class="alert alert-block alert-info">
-Movie Recommendation:
+## Movie Recommendation:
 </div>
 
 
