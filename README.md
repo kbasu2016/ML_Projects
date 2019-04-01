@@ -1,7 +1,7 @@
 # Machine Learning Projects:
 
 
-## Movie Recommendation:
+## Movie Recommendation (Recomender System):
 
 We'll start by loading up the [MovieLens dataset](https://movielens.org).
 Using Pandas, we can very quickly load the rows of the u.data and u.item files that we care about, 
@@ -18,7 +18,7 @@ The dataset we are going to use is very popular among researchers in Natural Lan
 Maas, Andrew L., et al. [Learning Word Vectors for Sentiment Analysis](http://ai.stanford.edu/~amaas/data/sentiment/). In _Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies_. Association for Computational Linguistics, 2011.
 
 
-## Spam Classifier:
+## Spam Classifier (using Naive-Bayes):
 
 Spam detection is one of the major applications of Machine Learning in the interwebs today. Pretty much all of the major email service providers have spam detection systems built in and automatically classify such mail as 'Junk Mail'. 
 
